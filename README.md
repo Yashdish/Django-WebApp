@@ -2,7 +2,8 @@
 
 <h2><a href="https://pythonista29.stores.instamojo.com/" >Visit Store for more intresting Project</a></h2>
 
-This project was done by me as a assignment for an internship.
+This project was done by me as a assignment for hacktoberfest 2020
+
 
 <h2>Assignment Problem Statement:</h2>
 
